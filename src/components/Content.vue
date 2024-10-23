@@ -4,7 +4,6 @@
 </template>
 
 <script setup>
-
     const props = defineProps(['content'])
     const audioSrc = ref()
     const container = ref()
